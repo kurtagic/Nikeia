@@ -4,14 +4,20 @@
 retarded programing language by yours truly
 
 very reduced instruction set:
-x...int
-PRINT/_LINE takes a string only, put it in "" or shit doesnt work
-READ only reads an int so dont do dumb shit
-HALT...put at the end of program so my poor guy knows when its done
+`x`...int
 
-use // for comments, comments go in their own line
-when you label shit make it like label: and in their own line
-files end with .nka
+`PRINT/_LINE` takes a string only, put it in "" or shit doesnt work
+
+`READ` only reads an int so dont do dumb shit
+
+`HALT`...put at the end of program so my poor guy knows when its done
+
+
+use `//` for comments, comments go in their own line
+
+when you label shit make it like `label:` and in their own line
+
+files end with `.nka`
 
 ### 1.1 (VERY) REDUCED INTRUCTION SET
 
